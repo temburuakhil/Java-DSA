@@ -15,7 +15,15 @@ public class Palindrome_Number {
             System.out.println("Not a Palindrome");
         }
     }
+
+
     public static void main(String[] args) {
-        checkPalindrome(1222);
+//        checkPalindrome(1222);
+
+//        String s=String.valueOf(x);
+//
+//        String rev=new StringBuilder(s).reverse().toString();
+//
+//        System.out.println();
     }
 }
